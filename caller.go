@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/williaminfante/starter"
+	starter "github.com/williaminfante/go_test_starter"
 )
 
 func main() {
